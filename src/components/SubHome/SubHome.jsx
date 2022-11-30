@@ -26,7 +26,7 @@ function SubHome() {
         <select name="tipoDespesa">
           <option value="Entretenimento">Entretenimento</option>
           <option value="Investimentos">Investimentos</option>
-          <option value="Alimentacao">Aliementação</option>
+          <option value="Alimentacao">Alimentação</option>
           <option value="Manutencao">Manutenção do Veículo</option>
           <option value="Lazer">Lazer</option>
           <option value="Academia">Academia</option>
