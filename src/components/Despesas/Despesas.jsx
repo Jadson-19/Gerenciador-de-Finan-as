@@ -88,6 +88,7 @@ const Despesas = () => {
       setData("")
       setselectValue("")
       setValor("")
+      setError("")
 
       return
     } else {
