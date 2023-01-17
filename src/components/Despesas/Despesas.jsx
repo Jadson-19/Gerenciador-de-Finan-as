@@ -60,7 +60,7 @@ const Despesas = () => {
       if (!data || !selectValue || !valor) {
         
         alert("OPS! Algo deu errado. Verifique se preencheu tudo corretamente.");
-        setError("ATENÇÃO! Algum dos campos do formulário não foi preechido.");
+        setError("ATENÇÃO! Algum dos campos do formulário não foi preenchido.");
         return; 
       } 
       
